@@ -16,6 +16,14 @@
       "l": {
         "value": "24",
         "type": "spacing"
+      },
+      "xl": {
+        "value": "32",
+        "type": "spacing"
+      },
+      "xxl": {
+        "value": "40",
+        "type": "spacing"
       }
     },
     "gap": {
