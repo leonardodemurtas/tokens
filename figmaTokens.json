@@ -24,6 +24,10 @@
       "xxl": {
         "value": "40",
         "type": "spacing"
+      },
+      "noPadding": {
+        "value": "0",
+        "type": "spacing"
       }
     },
     "gap": {
