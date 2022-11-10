@@ -26,6 +26,22 @@
       "m": {
         "value": "16",
         "type": "spacing"
+      },
+      "l": {
+        "value": "24",
+        "type": "spacing"
+      },
+      "xl": {
+        "value": "32",
+        "type": "spacing"
+      },
+      "xxl": {
+        "value": "40",
+        "type": "spacing"
+      },
+      "noGap": {
+        "value": "0",
+        "type": "spacing"
       }
     }
   },
