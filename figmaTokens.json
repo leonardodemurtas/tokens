@@ -22,6 +22,10 @@
       "s": {
         "value": "8",
         "type": "spacing"
+      },
+      "m": {
+        "value": "16",
+        "type": "spacing"
       }
     }
   },
