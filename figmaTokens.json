@@ -13,6 +13,16 @@
         "value": "16",
         "type": "spacing"
       }
+    },
+    "gap": {
+      "xs": {
+        "value": "4",
+        "type": "spacing"
+      },
+      "s": {
+        "value": "8",
+        "type": "spacing"
+      }
     }
   },
   "$themes": [],
