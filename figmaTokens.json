@@ -1,0 +1,20 @@
+{
+  "global": {
+    "padding": {
+      "xs": {
+        "value": "4px",
+        "type": "spacing"
+      },
+      "s": {
+        "value": "8",
+        "type": "spacing"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
