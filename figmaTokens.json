@@ -12,6 +12,10 @@
       "m": {
         "value": "16",
         "type": "spacing"
+      },
+      "l": {
+        "value": "24",
+        "type": "spacing"
       }
     },
     "gap": {
