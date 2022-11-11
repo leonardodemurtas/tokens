@@ -61,10 +61,377 @@
       }
     }
   },
+  "light": {
+    "10": {
+      " States": {
+        "Enabled": {
+          "value": "#0e172500",
+          "type": "color"
+        },
+        "Hovered": {
+          "value": "#17191c0d",
+          "type": "color"
+        },
+        "Focused": {
+          "value": "#17191c1f",
+          "type": "color"
+        },
+        "Hovered-accent": {
+          "value": "#17191c73",
+          "type": "color"
+        }
+      }
+    },
+    "background": {
+      "value": "#e3e6e8",
+      "type": "color"
+    },
+    "00": {
+      " Surface": {
+        "surface": {
+          "value": "#f1f2f4",
+          "type": "color"
+        },
+        "Medium Emphasis": {
+          "value": "#17191c14",
+          "type": "color"
+        },
+        "Low Emphasis": {
+          "value": "#17191c0a",
+          "type": "color"
+        }
+      },
+      " Inverse Surface": {
+        "Inverse-Surface": {
+          "value": "#17191c",
+          "type": "color"
+        },
+        "Medium Emphasis": {
+          "value": "#e3e5e836",
+          "type": "color"
+        },
+        "Low Emphasis": {
+          "value": "#e3e5e80d",
+          "type": "color"
+        }
+      },
+      " Outline": {
+        "High Emphasis": {
+          "value": "#17191cb8",
+          "type": "color"
+        },
+        "Medium Emphasis": {
+          "value": "#17191c29",
+          "type": "color"
+        },
+        "Low Emphasis": {
+          "value": "#e3e5e8b8",
+          "type": "color"
+        }
+      }
+    },
+    "01": {
+      " Primary": {
+        "Primary": {
+          "value": "#2396d2",
+          "type": "color"
+        },
+        "Primary Dark": {
+          "value": "#186690",
+          "type": "color"
+        }
+      }
+    },
+    "02": {
+      " Secondary": {
+        "Secondary": {
+          "value": "#51ba7f",
+          "type": "color"
+        },
+        "Secondary Dark": {
+          "value": "#378b5c",
+          "type": "color"
+        }
+      }
+    },
+    "03": {
+      " Text": {
+        "High Emphasis": {
+          "value": "#17191c",
+          "type": "color"
+        },
+        "Medium Emphasis": {
+          "value": "#17191ca3",
+          "type": "color"
+        },
+        "Disabled": {
+          "value": "#17191c61",
+          "type": "color"
+        },
+        "Hint": {
+          "value": "#17191c80",
+          "type": "color"
+        }
+      }
+    },
+    "04": {
+      " Inverse Text": {
+        "High Emphasis": {
+          "value": "#f0f2f5",
+          "type": "color"
+        },
+        "Medium Emphasis": {
+          "value": "#e3e5e8bd",
+          "type": "color"
+        },
+        "Disabled": {
+          "value": "#e3e5e861",
+          "type": "color"
+        },
+        "Hint": {
+          "value": "#e3e5e880",
+          "type": "color"
+        }
+      }
+    },
+    "05": {
+      " Error": {
+        "Error": {
+          "value": "#cb3c2e",
+          "type": "color"
+        },
+        "Error Dark": {
+          "value": "#a63126",
+          "type": "color"
+        }
+      }
+    },
+    "06": {
+      " Warning": {
+        "Warning": {
+          "value": "#ff9800",
+          "type": "color"
+        },
+        "Warning Dark": {
+          "value": "#f57c00",
+          "type": "color"
+        }
+      }
+    },
+    "07": {
+      " Info": {
+        "Info": {
+          "value": "#2196f3",
+          "type": "color"
+        },
+        "Info Dark": {
+          "value": "#1976d2",
+          "type": "color"
+        }
+      }
+    },
+    "08": {
+      " Success": {
+        "Success": {
+          "value": "#51ba7f",
+          "type": "color"
+        },
+        "Success Dark": {
+          "value": "#3d9965",
+          "type": "color"
+        }
+      }
+    },
+    "09": {
+      " Elevation": {
+        "Level 0": {
+          "value": "#f0f2f400",
+          "type": "color"
+        },
+        "Level 1": {
+          "value": "#f0f2f429",
+          "type": "color"
+        },
+        "Level 2": {
+          "value": "#f0f2f43d",
+          "type": "color"
+        },
+        "Level 3": {
+          "value": "#f0f2f452",
+          "type": "color"
+        },
+        "Level 4": {
+          "value": "#f0f2f466",
+          "type": "color"
+        },
+        "Level 5": {
+          "value": "#f0f2f47a",
+          "type": "color"
+        }
+      }
+    },
+    "Level 0": {
+      "value": {
+        "color": "#00000040",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 1,
+        "blur": 1,
+        "spread": 0
+      },
+      "type": "boxShadow"
+    },
+    "Level 1": {
+      "value": [
+        {
+          "color": "#00000024",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 2,
+          "blur": 2,
+          "spread": 0
+        },
+        {
+          "color": "#00000033",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 1,
+          "blur": 5,
+          "spread": 0
+        },
+        {
+          "color": "#0000001f",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 3,
+          "blur": 1,
+          "spread": 0
+        }
+      ],
+      "type": "boxShadow"
+    },
+    "Level 2": {
+      "value": [
+        {
+          "color": "#00000033",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 2,
+          "blur": 4,
+          "spread": 0
+        },
+        {
+          "color": "#0000001f",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 1,
+          "blur": 10,
+          "spread": 0
+        },
+        {
+          "color": "#00000024",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 4,
+          "blur": 5,
+          "spread": 0
+        }
+      ],
+      "type": "boxShadow"
+    },
+    "Level 3": {
+      "value": [
+        {
+          "color": "#00000033",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 5,
+          "blur": 5,
+          "spread": 0
+        },
+        {
+          "color": "#0000001f",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 3,
+          "blur": 14,
+          "spread": 0
+        },
+        {
+          "color": "#00000024",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 8,
+          "blur": 10,
+          "spread": 0
+        }
+      ],
+      "type": "boxShadow"
+    },
+    "Level 4": {
+      "value": [
+        {
+          "color": "#00000033",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 8,
+          "blur": 10,
+          "spread": 0
+        },
+        {
+          "color": "#0000001f",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 6,
+          "blur": 30,
+          "spread": 0
+        },
+        {
+          "color": "#00000024",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 16,
+          "blur": 24,
+          "spread": 0
+        }
+      ],
+      "type": "boxShadow"
+    },
+    "Level 5": {
+      "value": [
+        {
+          "color": "#00000033",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 11,
+          "blur": 15,
+          "spread": 0
+        },
+        {
+          "color": "#0000001f",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 9,
+          "blur": 46,
+          "spread": 0
+        },
+        {
+          "color": "#00000024",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 24,
+          "blur": 38,
+          "spread": 0
+        }
+      ],
+      "type": "boxShadow"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global"
+      "global",
+      "light"
     ]
   }
 }
