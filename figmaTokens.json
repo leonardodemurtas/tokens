@@ -579,6 +579,192 @@
         }
       ],
       "type": "boxShadow"
+    },
+    "background": {
+      "value": "#0e1725",
+      "type": "color"
+    },
+    "Outline": {
+      "HighEmphasis": {
+        "value": "#f0f2f4b8",
+        "type": "color"
+      },
+      "MediumEmphasis": {
+        "value": "#f0f2f447",
+        "type": "color"
+      },
+      "LowEmphasis": {
+        "value": "#0e1725b8",
+        "type": "color"
+      }
+    },
+    "Surface": {
+      "surface": {
+        "value": "#152238",
+        "type": "color"
+      },
+      "MediumEmphasis": {
+        "value": "#f0f2f414",
+        "type": "color"
+      },
+      "LowEmphasis": {
+        "value": "#f0f2f40d",
+        "type": "color"
+      }
+    },
+    "InverseSurface": {
+      "Inverse-Surface": {
+        "value": "#f0f2f4",
+        "type": "color"
+      },
+      "MediumEmphasis": {
+        "value": "#15223814",
+        "type": "color"
+      },
+      "LowEmphasis": {
+        "value": "#1522380a",
+        "type": "color"
+      }
+    },
+    "Text": {
+      "HighEmphasis": {
+        "value": "#f0f2f4",
+        "type": "color"
+      },
+      "MediumEmphasis": {
+        "value": "#f0f2f4bd",
+        "type": "color"
+      },
+      "Disabled": {
+        "value": "#f0f2f461",
+        "type": "color"
+      },
+      "Hint": {
+        "value": "#f0f2f480",
+        "type": "color"
+      }
+    },
+    "Primary": {
+      "Primary": {
+        "value": "#47ace0",
+        "type": "color"
+      },
+      "PrimaryDark": {
+        "value": "#1f85bc",
+        "type": "color"
+      }
+    },
+    "Secondary": {
+      "Secondary": {
+        "value": "#83cea4",
+        "type": "color"
+      },
+      "SecondaryDark": {
+        "value": "#51ba7f",
+        "type": "color"
+      }
+    },
+    "InverseText": {
+      "HighEmphasis": {
+        "value": "#0e1725",
+        "type": "color"
+      },
+      "MediumEmphasis": {
+        "value": "#0e1725bd",
+        "type": "color"
+      },
+      "Disabled": {
+        "value": "#0e172561",
+        "type": "color"
+      },
+      "Hint": {
+        "value": "#0e172580",
+        "type": "color"
+      }
+    },
+    "Error": {
+      "Error": {
+        "value": "#f44336",
+        "type": "color"
+      },
+      "ErrorDark": {
+        "value": "#d32f2f",
+        "type": "color"
+      }
+    },
+    "Warning": {
+      "Warning": {
+        "value": "#f0ae34",
+        "type": "color"
+      },
+      "WarningDark": {
+        "value": "#df9710",
+        "type": "color"
+      }
+    },
+    "Info": {
+      "Info": {
+        "value": "#2196f3",
+        "type": "color"
+      },
+      "InfoDark": {
+        "value": "#1976d2",
+        "type": "color"
+      }
+    },
+    "Success": {
+      "Success": {
+        "value": "#4caf50",
+        "type": "color"
+      },
+      "SuccessDark": {
+        "value": "#388e3c",
+        "type": "color"
+      }
+    },
+    "Elevation": {
+      "Level0": {
+        "value": "#f0f2f400",
+        "type": "color"
+      },
+      "Level1": {
+        "value": "#f0f2f40d",
+        "type": "color"
+      },
+      "Level2": {
+        "value": "#f0f2f417",
+        "type": "color"
+      },
+      "Level3": {
+        "value": "#f0f2f41f",
+        "type": "color"
+      },
+      "Level4": {
+        "value": "#f0f2f426",
+        "type": "color"
+      },
+      "Level5": {
+        "value": "#f0f2f42b",
+        "type": "color"
+      }
+    },
+    "States": {
+      "Enabled": {
+        "value": "#0e172500",
+        "type": "color"
+      },
+      "Hovered": {
+        "value": "#0e1725b8",
+        "type": "color"
+      },
+      "Focused": {
+        "value": "#0e1725b8",
+        "type": "color"
+      },
+      "Hovered-accent": {
+        "value": "#0e172566",
+        "type": "color"
+      }
     }
   },
   "$themes": [],
