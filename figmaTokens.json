@@ -594,8 +594,8 @@
         "type": "color"
       }
     },
-    "Levels": {
-      "Level 0": {
+    "Shadow": {
+      "Level-0": {
         "value": [
           {
             "color": "#00000033",
@@ -624,7 +624,7 @@
         ],
         "type": "boxShadow"
       },
-      "Level 1": {
+      "Level-1": {
         "value": [
           {
             "color": "#00000033",
@@ -653,7 +653,7 @@
         ],
         "type": "boxShadow"
       },
-      "Level 2": {
+      "Level-2": {
         "value": [
           {
             "color": "#00000033",
@@ -682,7 +682,7 @@
         ],
         "type": "boxShadow"
       },
-      "Level 3": {
+      "Level-3": {
         "value": [
           {
             "color": "#00000033",
@@ -711,7 +711,7 @@
         ],
         "type": "boxShadow"
       },
-      "Level 4": {
+      "Level-4": {
         "value": [
           {
             "color": "#00000033",
@@ -740,7 +740,7 @@
         ],
         "type": "boxShadow"
       },
-      "Level 5": {
+      "Level-5": {
         "value": [
           {
             "color": "#00000000",
